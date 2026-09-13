@@ -1,0 +1,6 @@
+[
+  {"question":"Is water damage from a sudden pipe burst covered?","expected_section":"Section 1: Home Water Damage Coverage","grounded":true},
+  {"question":"Are jewelry items covered?","expected_section":"Section 2: Personal Property Protection","grounded":true},
+  {"question":"Does the policy cover earthquake damage?","expected_section":null,"grounded":false},
+  {"question":"What is the best car insurer?","expected_section":null,"grounded":false}
+]

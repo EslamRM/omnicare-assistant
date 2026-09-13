@@ -1,0 +1,32 @@
+[
+  {
+    "claim_id": "CLM-8821",
+    "policy_number": "POL-1092",
+    "claim_type": "Water Damage",
+    "status": "Approved",
+    "amount": 3500.0
+  },
+  {
+    "claim_id": "CLM-9014",
+    "policy_number": "POL-3341",
+    "claim_type": "Personal Property",
+    "status": "Under Review",
+    "amount": 1200.0
+  },
+  {
+    "claim_id": "CLM-16531",
+    "policy_number": "POL-1092",
+    "claim_type": "Water Damage",
+    "status": "Submitted",
+    "amount": "3500",
+    "description": "damage was caused by a sudden pipe burst."
+  },
+  {
+    "claim_id": "CLM-33428",
+    "policy_number": "POL-1092",
+    "claim_type": "Water Damage",
+    "status": "Submitted",
+    "amount": "3500",
+    "description": "a pipe leaked and damaged my kitchen"
+  }
+]
